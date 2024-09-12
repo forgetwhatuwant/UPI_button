@@ -106,8 +106,3 @@ Feel free to open issues or submit pull requests if you'd like to contribute to 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### 其他注意事项
-- 如果有其他需要添加的特性或使用说明，可以在相应部分中补充。比如，如果涉及到更多的依赖项或配置文件等，可以将它们也包括在 README 中。
